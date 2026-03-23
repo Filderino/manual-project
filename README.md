@@ -1,1 +1,2 @@
-# manual-project
+# Manual Project
+Репозиторий для выполнения задания по работе с Git.
